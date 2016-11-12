@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gym</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_info">Info</string>
+    <string name="title_activity_ajustes">AjustesActivity</string>
+    <string name="title_activity_rutinas">RutinasActivity</string>
+    <string name="title_activity_maquinas">MaquinasActivity</string>
+    <string name="title_activity_instructores">InstructoresActivity</string>
+    <string name="title_activity_pagos">PagosActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_cliente">ClienteActivity</string>
+
+    <string name="serverhost">ubuntu:3306</string>
+    <string name="serverdb">gymlocura</string>
+    <string name="serveruser">mrossi</string>
+    <string name="serverclave">mrossi</string>
+    <string name="title_activity_info">InfoActivity</string>
+</resources>
